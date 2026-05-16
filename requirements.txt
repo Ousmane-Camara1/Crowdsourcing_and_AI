@@ -2,3 +2,4 @@ speechrecognition
 pyaudio
 sounddevice
 kokoro
+gradio
