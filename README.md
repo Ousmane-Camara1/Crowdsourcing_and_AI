@@ -1,11 +1,11 @@
-````markdown
+
 # Trust-Centric Voice AI Survey Prototype
 
 ## Project Overview
 This repository contains the functional, interactive voice AI survey prototype developed for **Track 2: Trust and Response**. The objective of this system is to evaluate how real-time interaction design, consent framing, and conversational logic affect survey uptake and data honesty.
 
 This software represents **Part II: Functional Design**, translating the human-centered trust factors from Part I (Legitimacy, Transparency, Autonomy, Privacy, Psychological Safety, Cognitive Ease) into executable logic gates.
-
+````markdown
 ---
 
 ## Installation
