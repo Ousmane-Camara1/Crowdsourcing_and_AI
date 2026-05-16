@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+project2env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS stuff
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "organization": "DataForChange",
+    "topic": "Community Health",
+    "estimated_minutes": 3
+  },
+  "questions": [
+    {
+      "id": "Q1_SAFETY",
+      "text": "On a scale of 1 to 3, how safe do you feel in your neighborhood? 1 is very safe, 3 is unsafe.",
+      "is_sensitive": false,
+      "type": "scale"
+    },
+    {
+      "id": "Q2_WATER",
+      "text": "Have you had difficulty accessing clean water this week? Please say Yes or No.",
+      "is_sensitive": true,
+      "type": "boolean"
+    }
+  ]
+}
