@@ -6,7 +6,7 @@ import os
 from kokoro import KPipeline
 import sounddevice as sd
 
-# 🔊 Initialize TTS pipeline ONCE (important)
+# Initialize TTS pipeline
 pipeline = KPipeline(lang_code='a')  # English
 
 def speak(text, gender="female"):
