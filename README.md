@@ -23,7 +23,7 @@ Set compiler flags:
 export LDFLAGS="-L/opt/homebrew/lib"
 export CPPFLAGS="-I/opt/homebrew/include"
 ```
-````markdown
+
 ### Install Dependencies
 
 ```bash
@@ -58,4 +58,4 @@ trust_survey_project/
 ```
 
 ```
-```
+
