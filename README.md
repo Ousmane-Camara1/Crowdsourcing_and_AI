@@ -7,11 +7,11 @@ This software represents **Part II: Functional Design**, translating the human-c
 
 Ps: I had a problem with audio on my Macbook, so you might need to install portaudio without requirements.txt
 brew install portaudio
-# Set flags for Apple Silicon compiler bindings
+### Set flags for Apple Silicon compiler bindings
 export LDFLAGS="-L/opt/homebrew/lib"
 export CPPFLAGS="-I/opt/homebrew/include"
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 To run:
 python app.py
