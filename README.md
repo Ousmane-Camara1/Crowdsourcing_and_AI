@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ---
 
 ## Usage
+Example JSON format for modular survey change:
+<img width="817" height="390" alt="image" src="https://github.com/user-attachments/assets/54ca29c3-25dc-4b25-b02c-f25680bfa7d3" />
 
 Run the application:
 
@@ -40,6 +42,9 @@ Run the application:
 python app.py
 ```
 <img width="747" height="532" alt="image" src="https://github.com/user-attachments/assets/263d43de-8236-4512-bc47-b904b91336c4" />
+
+Example csv:
+<img width="429" height="283" alt="image" src="https://github.com/user-attachments/assets/4990f569-533e-4734-b280-6cb4e72593f9" />
 
 ---
 
