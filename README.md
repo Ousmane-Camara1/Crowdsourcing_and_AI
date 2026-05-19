@@ -39,6 +39,7 @@ Run the application:
 ```bash
 python app.py
 ```
+<img width="747" height="532" alt="image" src="https://github.com/user-attachments/assets/263d43de-8236-4512-bc47-b904b91336c4" />
 
 ---
 
